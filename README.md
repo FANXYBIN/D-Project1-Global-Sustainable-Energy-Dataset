@@ -16,7 +16,7 @@ This project visualizes and analyzes global sustainable energy data (2000–2020
 - Highlighted a steady increase in renewable electricity generation and energy aid to developing countries.
 
 **Tableau**  
-![](images/ARIMA%20forecast%20for%20Profit.png)
+![](images/Global%20Sustainable%20Energy_Tableau.png)
 
 **Power BI Dashboard**
 - Designed “Global Energy Development Indicators” with slicers, cards, maps, and line charts.  
@@ -24,7 +24,7 @@ This project visualizes and analyzes global sustainable energy data (2000–2020
 - Revealed that renewable energy share is rising while fossil fuel dependence remains high.
 
 **Power BI**  
-![](images/ARIMA%20forecast%20for%20Profit.png)
+![](images/Global%20Sustainable%20Energy_PBI.png)
 
 **R Shiny Dashboard**
 - Built an interactive web app with filters for **year** and **country**.  
@@ -36,7 +36,7 @@ This project visualizes and analyzes global sustainable energy data (2000–2020
 - Demonstrated negative correlation between CO₂ emissions and low-carbon electricity share.
 
 **R Shiny**  
-![](images/ARIMA%20forecast%20for%20Profit.png)
+![](images/Global%20Sustainable%20Energy_RShiny.png)
 
 ---
 
