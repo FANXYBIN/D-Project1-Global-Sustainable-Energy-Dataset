@@ -14,6 +14,7 @@ This project visualizes and analyzes global sustainable energy data (2000–2020
 - Explored access to electricity, energy generation by source, and renewable growth across years.  
 - Used maps, bar charts, and parameters (Top X) to identify top-performing countries.  
 - Highlighted a steady increase in renewable electricity generation and energy aid to developing countries.
+
 **Tableau**  
 ![](images/ARIMA%20forecast%20for%20Profit.png)
 
@@ -21,6 +22,7 @@ This project visualizes and analyzes global sustainable energy data (2000–2020
 - Designed “Global Energy Development Indicators” with slicers, cards, maps, and line charts.  
 - Created DAX measures to calculate renewable, nuclear, and fossil fuel shares.  
 - Revealed that renewable energy share is rising while fossil fuel dependence remains high.
+
 **Power BI**  
 ![](images/ARIMA%20forecast%20for%20Profit.png)
 
@@ -32,6 +34,7 @@ This project visualizes and analyzes global sustainable energy data (2000–2020
   - CO₂ vs. low-carbon electricity (scatter with regression).  
   - Top 10 CO₂-emitting countries (bar chart).  
 - Demonstrated negative correlation between CO₂ emissions and low-carbon electricity share.
+
 **R Shiny**  
 ![](images/ARIMA%20forecast%20for%20Profit.png)
 
